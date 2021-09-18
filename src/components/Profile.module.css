@@ -1,0 +1,15 @@
+.content{
+    grid-area: c;
+    background-color: #fff;
+  }
+
+  .content > div{
+    width: 100%;
+  }
+  .content img{
+    width: 100%;
+  }
+
+  /* .item{
+    color: #F4B100;
+  } */

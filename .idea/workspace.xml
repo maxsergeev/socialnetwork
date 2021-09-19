@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbddb5c1-6d63-4727-b310-a8800c76871d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yM818aTu116XnVZeN3mfH5CoWF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Settings" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Web\react\projects\01-first-project\react-1\src\components\News" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Web\react\projects\01-first-project\react-1\src\components\Settings" />
+      <recent name="E:\Web\react\projects\01-first-project\react-1\src\components\Music" />
+      <recent name="E:\Web\react\projects\01-first-project\react-1\src\components\Dialogs" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbddb5c1-6d63-4727-b310-a8800c76871d" name="Default Changelist" comment="" />
+      <created>1632049878961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632049878961</updated>
+      <workItem from="1632049882762" duration="9759000" />
+      <workItem from="1632063835733" duration="920000" />
+      <workItem from="1632064801923" duration="1321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="356" key="#ESLint" timestamp="1632050014306">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="640" y="356" key="#ESLint/0.30.1536.834@0.30.1536.834" timestamp="1632050014306" />
+    <state x="0" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632064674851">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1632064674851" />
+    <state x="146" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632062632311">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="146" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1632062632311" />
+    <state x="173" y="130" width="1200" height="594" key="DiffContextDialog" timestamp="1632051066096">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="173" y="130" width="1200" height="594" key="DiffContextDialog/0.30.1536.834@0.30.1536.834" timestamp="1632051066096" />
+    <state x="485" y="231" key="FileChooserDialogImpl" timestamp="1632062485661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="231" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1632062485661" />
+    <state x="485" y="253" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1632051051318" />
+    <state x="214" y="175" width="981" height="707" key="SettingsEditor" timestamp="1632051065190">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="214" y="175" width="981" height="707" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1632051065190" />
+    <state x="94" y="100" width="581" height="670" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1632064484453">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="94" y="100" width="581" height="670" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1632064484453" />
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1632064687126">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1632064687126" />
+  </component>
+</project>

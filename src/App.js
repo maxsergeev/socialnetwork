@@ -20,7 +20,11 @@ const App = () => {
                     <Route path='/dialogs' component={Dialogs}/>
                     <Route path='/profile' component={Profile}/>
                     <Route path='/news' component={News}/>
+<<<<<<< HEAD
                     <Route path='/settings' component={Settings}/>
+=======
+                    <Route path='/music' component={Music}/>
+>>>>>>> stage2
                 </div>
             </div>
         </BrowserRouter>

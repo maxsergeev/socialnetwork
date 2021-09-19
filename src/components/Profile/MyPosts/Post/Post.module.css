@@ -1,0 +1,16 @@
+
+
+  .item{
+    color: #F4B100;
+  }
+
+  .item img{
+    width: 50px;
+    border-radius: 50%;
+  }
+
+ .likeCount{
+    font-weight: 700;
+    font-size: 16px;
+    color: #C4C4C4;
+  }

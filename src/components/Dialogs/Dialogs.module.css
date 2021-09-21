@@ -1,3 +1,15 @@
-{
-    color: #ff0000;
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    padding: 10px;
 }
+.dialog{
+    margin-bottom: 10px;
+}
+.active{
+    color: gold;
+}
+.message{
+    margin-bottom: 10px;
+}
+

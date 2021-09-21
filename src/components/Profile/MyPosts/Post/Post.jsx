@@ -1,10 +1,12 @@
 import React from 'react';
 import style from './Post.module.css';
+import postPhoto from './../../../../images/profile-user.svg'
+
 const Post = (props) => {
     return (
         <div className={style.item}>
             
-                <img src="https://cdn.pixabay.com/photo/2019/08/11/18/59/icon-4399701_1280.png" />
+                <img src={postPhoto}/>
             
             {props.message} 
             <div>

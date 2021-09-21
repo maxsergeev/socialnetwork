@@ -17,13 +17,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/stage" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbddb5c1-6d63-4727-b310-a8800c76871d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +83,8 @@
       <workItem from="1632063835733" duration="920000" />
       <workItem from="1632064801923" duration="1321000" />
       <workItem from="1632066144033" duration="823000" />
+      <workItem from="1632126473837" duration="28000" />
+      <workItem from="1632164415890" duration="2660000" />
     </task>
     <servers />
   </component>
@@ -108,7 +112,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/stage" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -138,11 +142,11 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="173" y="130" width="1200" height="594" key="DiffContextDialog/0.30.1536.834@0.30.1536.834" timestamp="1632051066096" />
-    <state x="485" y="231" key="FileChooserDialogImpl" timestamp="1632062485661">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="485" y="253" key="FileChooserDialogImpl" timestamp="1632126491206">
+      <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="485" y="231" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1632062485661" />
-    <state x="485" y="253" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1632051051318" />
+    <state x="485" y="253" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1632126491206" />
     <state x="214" y="175" width="981" height="707" key="SettingsEditor" timestamp="1632051065190">
       <screen x="0" y="30" width="1536" height="834" />
     </state>

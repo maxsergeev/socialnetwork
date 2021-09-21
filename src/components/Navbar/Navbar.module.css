@@ -2,10 +2,11 @@
     grid-area: n;
     background-color: #06B667;
   }
-.item{
+.item a{
     color: white;
     font-size: 24px;
+    text-decoration: none;
 }  
-.item.active{
+.item a.active{
   color: gold;
 }

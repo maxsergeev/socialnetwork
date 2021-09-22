@@ -1,7 +1,81 @@
 .postsBlock{
-    padding: 10px;
+    /*padding: 10px;*/
 }
 
 .posts {
     margin-top: 10px;
+}
+h3,h4{
+    background-color: #383a45;
+    background-image: linear-gradient(
+            135deg, #4f5261 0%, #383a45 50%);
+    padding: 20px;
+    /*margin: 0 -10px 20px -10px;*/
+    color: #fff;
+    border-radius: 12px;
+}
+h3{
+    font-size: 2.4rem;
+}
+h4{
+    font-size: 1.6rem;
+}
+
+.postTextArea textarea{
+    border-radius: 12px;
+    border-width: 2px;
+    width: calc(100% - 40px);
+    max-width: 1000px;
+    resize: vertical;
+    min-height: 30px;
+    max-height: 100px;
+    height: 30px;
+    transition: all .6s;
+    padding: 20px;
+    font-family: monospace;
+    font-size: 18px;
+}
+.postTextArea textarea:focus-visible{
+    outline: none;
+    border-radius: 12px;
+    border-color: #8329E4;
+    border-width: 2px;
+    transition: all .6s;
+}
+.postButtons{
+    margin-top: 20px;
+}
+.postNew{
+
+}
+.postButtons .btn{
+    transition: all .6s;
+    border-bottom: none;
+    background: #7C7C7C;
+    border: none;
+    width: 135px;
+    height: 40px;
+    font-size: 14px;
+    color: white;
+    margin-right: 5px;
+    border-radius: 12px;
+    padding: 12px;
+}
+.postButtons .btnAdd{
+    background: #8329E4;
+}
+.postButtons .btnAdd:hover{
+    background: #8c49d0;
+}
+.postButtons .btnAdd:active{
+    background: #65438d;
+}
+.postButtons .btnRemove{
+    background: #ff6347;
+}
+.postButtons .btnRemove:hover{
+    background: #ff806f;
+}
+.postButtons .btnRemove:active{
+    background: #aa574b;
 }

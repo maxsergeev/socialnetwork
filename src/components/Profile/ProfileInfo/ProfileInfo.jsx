@@ -5,7 +5,7 @@ import profilePhoto from './../../../images/profile.png'
 const ProfileInfo = () => {
     return (
         <div>
-            <div>
+            <div className={style.profilePhoto}>
                 <img src={profilePhoto}/>
             </div>
             <div className={style.descriptionBlock}>ava+desc</div>

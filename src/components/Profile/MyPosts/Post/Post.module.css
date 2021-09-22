@@ -2,15 +2,36 @@
 
   .item{
     color: #7C7C7C;
+      display: grid;
+      grid-template-columns: 1fr 11fr;
+      margin-bottom: 20px;
   }
 
-  .item img{
+  .itemMessage{
+      padding: 15px 0;
+  }
+
+  .itemPhoto img{
     width: 50px;
     border-radius: 50%;
   }
 
  .likeCount{
     font-weight: 700;
-    font-size: 16px;
+    font-size: 20px;
     color: #C4C4C4;
   }
+
+ .itemLike img{
+     width: 15px;
+ }
+
+ .itemMessage{
+     background: rgba(156, 81, 233, 0.05);
+     border-radius: 35px;
+     padding: 20px;
+     display: flex;
+     align-items: center;
+     padding: 10px 20px;
+ }
+

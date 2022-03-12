@@ -2,7 +2,15 @@ import React from 'react';
 import style from './MyPosts.module.css';
 import Post from './Post/Post'
 
+const posts = [
+    {message: "Hi, how r u?", likeCount: "23"},
+    {message: "It's my first post", likeCount: "11"}
+]
+
 const MyPosts = () => {
+
+    const postElements = posts.map( p => (<Post message={p.message} likeCount={p.likeCount}/>))
+
     return (
 
         <div className={style.postsBlock}>
@@ -22,9 +30,7 @@ const MyPosts = () => {
             </div>
             <h4>LAST POSTS</h4>
             <div className={style.post}>
-                <Post message='Hi, how r u?' likeCount='23'/>
-                <Post message="It's my first post" likeCount='11'/>
-
+                {postElements}
             </div>
         </div>
     );
